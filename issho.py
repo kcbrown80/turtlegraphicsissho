@@ -1,1 +1,1 @@
-from turtle import *
+import turtle as t
